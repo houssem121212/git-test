@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houssem121212/git-test.git"
+  },
+  "author": "houssem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houssem121212/git-test/issues"
+  },
+  "homepage": "https://github.com/houssem121212/git-test#readme",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
